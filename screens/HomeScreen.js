@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, SafeAreaView, Image } from "react-native";
+import { View, SafeAreaView, Image } from "react-native";
 import React from "react";
 import tw from "twrnc";
 import { NavOptions } from "../components/NavOptions";
@@ -60,5 +60,3 @@ export const HomeScreen = () => {
     </SafeAreaView>
   );
 };
-
-const styles = StyleSheet.create({});

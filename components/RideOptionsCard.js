@@ -2,7 +2,6 @@ import {
   FlatList,
   Image,
   SafeAreaView,
-  StyleSheet,
   Text,
   TouchableOpacity,
   View,
@@ -106,5 +105,3 @@ export const RideOptionsCard = () => {
     </SafeAreaView>
   );
 };
-
-const styles = StyleSheet.create({});

@@ -1,10 +1,4 @@
-import {
-  FlatList,
-  StyleSheet,
-  Text,
-  TouchableOpacity,
-  View,
-} from "react-native";
+import { FlatList, Text, TouchableOpacity, View } from "react-native";
 import React from "react";
 import tw from "twrnc";
 import { Icon } from "@rneui/themed";
@@ -50,5 +44,3 @@ export const NavFavourites = () => {
     />
   );
 };
-
-const styles = StyleSheet.create({});
