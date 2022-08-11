@@ -1,4 +1,4 @@
-# Uber APP
+# Uber React Native App
 
 First download "Expo Go" app on your phone.
 Then open the url and scan the QR.
